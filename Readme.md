@@ -12,4 +12,4 @@ By Dinesh Bana
 
 ![badge](https://img.shields.io/badge/Street%20Style%20Landing%20Page-HTML%20%26%20CSS-blue)
 
-## Project Link: [My Website](https://restaurant-landing-website.netlify.app/)
+## Project Link: [My Website](https://street-style-landing-webpage.netlify.app/)
